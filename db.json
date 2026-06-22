@@ -1,0 +1,907 @@
+{
+  "products": [
+    {
+      "id": "prod-1",
+      "name": "Dell XPS 16 Touch Laptop",
+      "description": "Supercharged performance for creators. Packaged with a brilliant 16.3-inch OLED touchscreen display, Intel Core Ultra 9 processor, 32GB LPDDR5X RAM, and NVIDIA RTX 4060 graphics.",
+      "price": 249990.0,
+      "category": "Laptops",
+      "image": "https://images.unsplash.com/photo-1593642632823-8f785ba67e45?auto=format&fit=crop&w=600&q=80",
+      "images": [
+        "https://images.unsplash.com/photo-1593642632823-8f785ba67e45?auto=format&fit=crop&w=600&q=80",
+        "https://images.unsplash.com/photo-1593642532744-d377ab507dc8?auto=format&fit=crop&w=600&q=80",
+        "https://images.unsplash.com/photo-1593642532400-2682810df593?auto=format&fit=crop&w=600&q=80",
+        "https://images.unsplash.com/photo-1593642702821-c8da6771f0c6?auto=format&fit=crop&w=600&q=80"
+      ],
+      "stock": 12,
+      "rating": 4.9,
+      "features": [
+        "Brilliant 16.3-inch OLED Touchscreen",
+        "Intel Core Ultra 9 185H CPU",
+        "NVIDIA GeForce RTX 4060 GPU",
+        "32GB Dual-Channel RAM",
+        "Premium CNC Aluminum Body"
+      ],
+      "specs": {
+        "Processor": "Intel Core Ultra 9 (up to 5.1 GHz)",
+        "GPU": "NVIDIA GeForce RTX 4060 8GB GDDR6",
+        "RAM": "32GB LPDDR5x-7467",
+        "Storage": "1TB NVMe PCIe 4.0 SSD",
+        "Display": "16.3\" OLED Touch (3840 x 2400) 120Hz",
+        "Weight": "2.1 kg"
+      }
+    },
+    {
+      "id": "prod-2",
+      "name": "HP Spectre x360 2-in-1 Laptop",
+      "description": "A premium convertible laptop that adapts to your work and play. Outfitted with an Intel Core Ultra 7 processor, a superb 14-inch OLED display, and a bundled digital stylus pen.",
+      "price": 144990.0,
+      "category": "Laptops",
+      "image": "https://images.unsplash.com/photo-1600194990375-5d1d0b28781c?auto=format&fit=crop&w=600&q=80",
+      "images": [
+        "https://images.unsplash.com/photo-1600194990375-5d1d0b28781c?auto=format&fit=crop&w=600&q=80",
+        "https://images.unsplash.com/photo-1683128069421-2c1881f70ed7?auto=format&fit=crop&w=600&q=80",
+        "https://images.unsplash.com/photo-1622050756792-5b1180bbb873?auto=format&fit=crop&w=600&q=80",
+        "https://images.unsplash.com/photo-1529429612779-c8e40ef2f36d?auto=format&fit=crop&w=600&q=80"
+      ],
+      "stock": 25,
+      "rating": 4.7,
+      "features": [
+        "360-degree convertible hinge",
+        "14-inch 2.8K OLED HDR Touch panel",
+        "Bundled HP Rechargeable MPP 2.0 Tilt Pen",
+        "Intel AI-boost NPU processing",
+        "Four speakers customized by Poly Studio"
+      ],
+      "specs": {
+        "Processor": "Intel Core Ultra 7 155H",
+        "GPU": "Intel Arc Graphics",
+        "RAM": "16GB LPDDR5x RAM",
+        "Storage": "1TB PCIe Gen4 NVMe SSD",
+        "Display": "14\" OLED 2.8K Touch (120Hz, HDR 500)",
+        "Weight": "1.44 kg"
+      }
+    },
+    {
+      "id": "prod-3",
+      "name": "Apple iPhone 15 Pro Max",
+      "description": "Forged in titanium and featuring the groundbreaking A17 Pro chip, a customizable Action button, the most powerful iPhone camera system ever, and a robust USB-C connector.",
+      "price": 148900.0,
+      "category": "Smartphones",
+      "image": "https://images.unsplash.com/photo-1695822822491-d92cee704368?auto=format&fit=crop&w=600&q=80",
+      "images": [
+        "https://images.unsplash.com/photo-1695822822491-d92cee704368?auto=format&fit=crop&w=600&q=80",
+        "https://images.unsplash.com/photo-1700805732158-6f1169780ca7?auto=format&fit=crop&w=600&q=80",
+        "https://images.unsplash.com/photo-1695639509828-d4260075e370?auto=format&fit=crop&w=600&q=80",
+        "https://images.unsplash.com/photo-1695823018812-c684c980ede6?auto=format&fit=crop&w=600&q=80"
+      ],
+      "stock": 18,
+      "rating": 4.8,
+      "features": [
+        "Aerospace-grade Titanium design",
+        "Super Retina XDR with ProMotion 120Hz",
+        "A17 Pro chip with 6-core GPU",
+        "48MP Main Camera with 5x Telephoto Zoom",
+        "Customizable tactile Action Button"
+      ],
+      "specs": {
+        "Processor": "Apple A17 Pro (3nm)",
+        "Screen": "6.7\" Super Retina XDR OLED Display",
+        "Camera": "Triple: 48MP + 12MP + 12MP with LiDAR",
+        "RAM": "8GB Unified Storage",
+        "Storage": "256GB NVMe",
+        "Battery": "4441 mAh"
+      }
+    },
+    {
+      "id": "prod-4",
+      "name": "Samsung Galaxy S24 Ultra",
+      "description": "Set the standard for mobile integration. Includes the legendary built-in S Pen stylus, live voice translation, an armor titanium frame, and a breathtaking 200MP Quad-camera array.",
+      "price": 124999.0,
+      "category": "Smartphones",
+      "image": "https://images.unsplash.com/photo-1705585174953-9b2aa8afc174?auto=format&fit=crop&w=600&q=80",
+      "images": [
+        "https://images.unsplash.com/photo-1705585174953-9b2aa8afc174?auto=format&fit=crop&w=600&q=80",
+        "https://images.unsplash.com/photo-1705530292519-ec81f2ace70d?auto=format&fit=crop&w=600&q=80",
+        "https://images.unsplash.com/photo-1705585175110-d25f92c183aa?auto=format&fit=crop&w=600&q=80",
+        "https://images.unsplash.com/photo-1678911820864-e2c567c655d7?auto=format&fit=crop&w=600&q=80"
+      ],
+      "stock": 8,
+      "rating": 4.6,
+      "features": [
+        "Built-in S Pen Stylus",
+        "Galaxy AI smart features",
+        "200MP + 50MP + 12MP + 10MP Quad camera",
+        "Flat 6.8\" QHD+ Dynamic AMOLED 2X",
+        "Sustained armor titanium chassis"
+      ],
+      "specs": {
+        "Processor": "Snapdragon 8 Gen 3 for Galaxy",
+        "Screen": "6.8\" Quad-HD+ Dynamic AMOLED 2X (120Hz)",
+        "Camera": "200MP + 50MP + 12MP + 10MP Setup",
+        "RAM": "12GB LPDDR5X",
+        "Storage": "256GB UFS 4.0",
+        "Battery": "5000 mAh"
+      }
+    },
+    {
+      "id": "prod-5",
+      "name": "Sony WH-1000XM5 ANC Headphones",
+      "description": "Rewriting the rules for distraction-free listening. Contains premium dual processors controlling 8 microphones for world-class Active Noise Cancelling, and LDAC high-fidelity audio.",
+      "price": 29990.0,
+      "category": "Audio",
+      "image": "https://images.unsplash.com/photo-1614860243518-c12eb2fdf66c?auto=format&fit=crop&w=600&q=80",
+      "images": [
+        "https://images.unsplash.com/photo-1614860243518-c12eb2fdf66c?auto=format&fit=crop&w=600&q=80",
+        "https://images.unsplash.com/photo-1615433366992-1586f3b8fca5?auto=format&fit=crop&w=600&q=80",
+        "https://images.unsplash.com/photo-1611170407651-65737bbadd58?auto=format&fit=crop&w=600&q=80",
+        "https://images.unsplash.com/photo-1612478120623-0acf9e231d27?auto=format&fit=crop&w=600&q=80"
+      ],
+      "stock": 30,
+      "rating": 4.8,
+      "features": [
+        "World-class multi-mic Active Noise Cancellation",
+        "Specially developed 30mm carbon driver",
+        "Precision voice pick-up with bone conduction",
+        "Up to 30-hour playback with quick charge",
+        "Smart speak-to-chat auto pausing"
+      ],
+      "specs": {
+        "Driver": "30mm Specially Designed Carbon Dome",
+        "Frequency Response": "4Hz - 40,000Hz",
+        "ANC Performance": "Industry-Leading Dual Processor ANC",
+        "Battery Life": "30 hours (ANC On), 38 hours (ANC Off)",
+        "Bluetooth": "Bluetooth 5.2 (LDAC, AAC, SBC)"
+      }
+    },
+    {
+      "id": "prod-6",
+      "name": "Samsung Galaxy Watch6 LTE",
+      "description": "Track your body, refine your life. Premium bezel-less circular smartwatch equipped with customized sleep coaches, body composition analysis (BIA), and LTE cellular redundancy.",
+      "price": 24999.0,
+      "category": "Audio",
+      "image": "https://images.unsplash.com/photo-1434494878577-86c23bcb06b9?auto=format&fit=crop&w=600&q=80",
+      "images": [
+        "https://images.unsplash.com/photo-1434494878577-86c23bcb06b9?auto=format&fit=crop&w=600&q=80",
+        "https://images.unsplash.com/photo-1661030419605-3d4ca9cda193?auto=format&fit=crop&w=600&q=80",
+        "https://images.unsplash.com/photo-1723622555972-37af178c623a?auto=format&fit=crop&w=600&q=80",
+        "https://images.unsplash.com/photo-1722153768985-9286321b8769?auto=format&fit=crop&w=600&q=80"
+      ],
+      "stock": 45,
+      "rating": 4.5,
+      "features": [
+        "Bezel-less round Super AMOLED display",
+        "Body Composition BIA BioActive Sensor",
+        "Custom sleep coach and snoring recorder",
+        "Seamless LTE Standalone eSIM Calling",
+        "Premium Sapphire Crystal Glass Screen"
+      ],
+      "specs": {
+        "Display": "1.47\" Super AMOLED (480x480)",
+        "Sensors": "BioActive (BIA + ECG + HR), Temperature",
+        "Waterproofing": "IP68 and 5 ATM Swimproof",
+        "Battery": "425 mAh (up to 40 hours)",
+        "Compatibility": "Android with wearOS 4 powered by Samsung"
+      }
+    },
+    {
+      "id": "prod-7",
+      "name": "Bose QuietComfort Ultra Earbuds",
+      "description": "Spatialized immersive audio meets Bose-standard quiet. Offering next-level CustomTune sound calibration that personalizes the sound specifically to your ear canals.",
+      "price": 25900.0,
+      "category": "Audio",
+      "image": "https://images.unsplash.com/photo-1623323287571-1401c5ac5142?auto=format&fit=crop&w=600&q=80",
+      "images": [
+        "https://images.unsplash.com/photo-1623323287571-1401c5ac5142?auto=format&fit=crop&w=600&q=80",
+        "https://images.unsplash.com/photo-1633346703386-bf6f1e59ec6f?auto=format&fit=crop&w=600&q=80",
+        "https://images.unsplash.com/photo-1565935192924-21a9ddca26eb?auto=format&fit=crop&w=600&q=80",
+        "https://images.unsplash.com/photo-1583373351761-fa9e3a19c99d?auto=format&fit=crop&w=600&q=80"
+      ],
+      "stock": 50,
+      "rating": 4.6,
+      "features": [
+        "Bose CustomTune personalized audio profiles",
+        "Immersive Audio spatialized 3D modes",
+        "World-class quiet, aware, and active ANC",
+        "IPX4 Sweat & outdoor resistance rating",
+        "Ergonomic fit-kit ear-wings and tips"
+      ],
+      "specs": {
+        "Driver": "9.3mm Dynamic Driver Custom Tuned",
+        "Microphones": "4 Microphones in each earbud",
+        "IP Rating": "IPX4 Sweat-resistant rating",
+        "Battery": "6 hours bud life, 24 hours total charging case"
+      }
+    },
+    {
+      "id": "prod-8",
+      "name": "LG C4 65\" 4K Smart OLED TV",
+      "description": "The absolute standard of TV excellence. Self-lit pixels produce perfect contrast, brilliant highlights, and perfect black levels for an unparalleled premium home theater experience.",
+      "price": 189990.0,
+      "category": "Home",
+      "image": "https://images.unsplash.com/photo-1593305841991-05c297ba4575?auto=format&fit=crop&w=600&q=80",
+      "images": [
+        "https://images.unsplash.com/photo-1593305841991-05c297ba4575?auto=format&fit=crop&w=600&q=80",
+        "https://images.unsplash.com/photo-1558882224-dda166733046?auto=format&fit=crop&w=600&q=80",
+        "https://images.unsplash.com/photo-1600121848594-d8644e57abab?auto=format&fit=crop&w=600&q=80",
+        "https://images.unsplash.com/photo-1461151304267-38535e780c79?auto=format&fit=crop&w=600&q=80"
+      ],
+      "stock": 5,
+      "rating": 4.9,
+      "features": [
+        "Self-lit pixels with infinite contrast ratio",
+        "\u03b19 AI Processor Gen7 for advanced upscaling",
+        "Vibrant brightness booster technology",
+        "G-Sync and FreeSync Premium VRR support",
+        "Ultra-thin bezel design with wall mounting"
+      ],
+      "specs": {
+        "Display": "65-inch Self-lit OLED 4K Screen",
+        "Resolution": "3840 x 2160 (Cinema 4K)",
+        "Refresh Rate": "144Hz Variable Refresh Rate",
+        "Inputs": "4 x HDMI 2.1 (eARC), 3 x USB, WiFi 6",
+        "OS": "webOS 24 Premium Smart Platform"
+      }
+    },
+    {
+      "id": "prod-9",
+      "name": "Apple HomePod (2nd Gen) Speaker",
+      "description": "A powerhouse of acoustic engineering. Fuses rich high-fidelity room-filling audio with intelligent system intelligence to handle smart home control, temperature, and smoke alarms.",
+      "price": 32900.0,
+      "category": "Home",
+      "image": "https://images.unsplash.com/photo-1702314908110-7ba52507e344?auto=format&fit=crop&w=600&q=80",
+      "images": [
+        "https://images.unsplash.com/photo-1702314908110-7ba52507e344?auto=format&fit=crop&w=600&q=80",
+        "https://images.unsplash.com/photo-1640826808046-6d4d4faa30c8?auto=format&fit=crop&w=600&q=80",
+        "https://images.unsplash.com/photo-1636829147637-6b88c84fb6e2?auto=format&fit=crop&w=600&q=80",
+        "https://images.unsplash.com/photo-1761384409454-736d69295db0?auto=format&fit=crop&w=600&q=80"
+      ],
+      "stock": 40,
+      "rating": 4.4,
+      "features": [
+        "High-excursion woofer with five beamforming tweeters",
+        "Spatial Audio support for room-filling 3D music",
+        "Integrated room temperature and humidity sensors",
+        "Siri voice assistant built-in",
+        "Stereo-pair compatible with multiple units"
+      ],
+      "specs": {
+        "Acoustics": "4-inch High-Excursion Woofer & 5 Tweeters",
+        "Smart Radios": "S7 System chip, Thread, Wi-Fi, Bluetooth",
+        "Sensors": "Ambient Temperature + Humidity sensor",
+        "Dimensions": "168mm H x 142mm W",
+        "Weight": "2.3 kg"
+      }
+    },
+    {
+      "id": "prod-10",
+      "name": "GoPro HERO12 Black Action Camera",
+      "description": "Designed for rough terrain and breathtaking shots. Features premium high dynamic range (HDR) 5.3K video recording, hyper-smooth image stabilization, and rugged waterproofing.",
+      "price": 37990.0,
+      "category": "Cameras",
+      "image": "https://images.unsplash.com/photo-1692152004105-d4c9bacd6923?auto=format&fit=crop&w=600&q=80",
+      "images": [
+        "https://images.unsplash.com/photo-1692152004105-d4c9bacd6923?auto=format&fit=crop&w=600&q=80",
+        "https://images.unsplash.com/photo-1503072181166-d28c4e6c1b3b?auto=format&fit=crop&w=600&q=80",
+        "https://images.unsplash.com/photo-1462465024002-a13e2d586449?auto=format&fit=crop&w=600&q=80",
+        "https://images.unsplash.com/photo-1577486092192-59ded63a8dbd?auto=format&fit=crop&w=600&q=80"
+      ],
+      "stock": 15,
+      "rating": 4.7,
+      "features": [
+        "HDR 5.3K60, 4K120, and 2.7K240 Video",
+        "Timecode synchronization and Bluetooth audio",
+        "HyperSmooth 6.0 electronic image stabilization",
+        "Completely rugged/waterproof up to 33 feet (10m)",
+        "Enduro high-capacity cold-resistant battery"
+      ],
+      "specs": {
+        "Sensor": "1/1.9\" CMOS Max Lens Mod 2.0 Ready",
+        "Maximum Res": "5.3K at 60fps, 27MP Raw Photos",
+        "Stabilization": "HyperSmooth 6.0 AutoBoost 3.0",
+        "Depth Guide": "Waterproof to 10m (33ft) without dome",
+        "Dual Screens": "2.27\" Rear LCD + 1.4\" Front LCD"
+      }
+    },
+    {
+      "id": "prod-11",
+      "name": "Apple iPhone 15 Plus",
+      "description": "Brilliant Super Retina XDR screen with a spacious screen size to maximize your productivity. Loaded with the incredible A16 Bionic flagship-class chip, advanced portrait camera, and standard-setting thermal layout.",
+      "price": 79900.0,
+      "category": "Smartphones",
+      "image": "https://images.unsplash.com/photo-1700125621736-75a6d245a308?auto=format&fit=crop&w=600&q=80",
+      "images": [
+        "https://images.unsplash.com/photo-1700125621736-75a6d245a308?auto=format&fit=crop&w=600&q=80",
+        "https://images.unsplash.com/photo-1718223483120-8131e57f948b?auto=format&fit=crop&w=600&q=80",
+        "https://images.unsplash.com/photo-1695822958645-b2b058159215?auto=format&fit=crop&w=600&q=80",
+        "https://images.unsplash.com/photo-1709114108061-7a3b648eba80?auto=format&fit=crop&w=600&q=80"
+      ],
+      "stock": 14,
+      "rating": 4.7,
+      "features": [
+        "Spacious 6.7-inch Super Retina Display",
+        "Dynamic Island smart widgets interaction",
+        "Advanced 48MP main high-res sensor",
+        "Extended battery offering up to 26 hours",
+        "Equipped with future-proof USB-C connectivity"
+      ],
+      "specs": {
+        "Processor": "Apple A16 Bionic (4nm)",
+        "Screen": "6.7\" Super Retina XDR OLED (60Hz)",
+        "Camera": "Dual: 48MP + 12MP Ultra-wide with Smart HDR 5",
+        "RAM": "6GB High-Speed",
+        "Storage": "128GB Storage",
+        "Battery": "4383 mAh"
+      }
+    },
+    {
+      "id": "prod-12",
+      "name": "ASUS ROG Zephyrus G16 Gaming",
+      "description": "A masterpiece of engineering that combines heavy portable gaming capacity with ultra-thin premium chassis formatting. Sporting state of the art OLED 240Hz screen, Intel processor, and cold liquid-metal thermal system.",
+      "price": 219990.0,
+      "category": "Laptops",
+      "image": "https://images.unsplash.com/photo-1771015310937-6754da25e49a?auto=format&fit=crop&w=600&q=80",
+      "images": [
+        "https://images.unsplash.com/photo-1771015310937-6754da25e49a?auto=format&fit=crop&w=600&q=80",
+        "https://images.unsplash.com/photo-1771014817844-327a14245bd1?auto=format&fit=crop&w=600&q=80",
+        "https://images.unsplash.com/photo-1641623410264-948701015656?auto=format&fit=crop&w=600&q=80",
+        "https://images.unsplash.com/photo-1760901374976-12a910a54006?auto=format&fit=crop&w=600&q=80"
+      ],
+      "stock": 10,
+      "rating": 4.8,
+      "features": [
+        "16-inch ROG Nebula Display OLED 240Hz",
+        "Intel Core Ultra 9 185H CPU",
+        "NVIDIA GeForce RTX 4070 8GB GPU",
+        "Slim 1.49cm premium milled aluminum body",
+        "Dual fans with anti-dust thermal exit tunnels"
+      ],
+      "specs": {
+        "Processor": "Intel Core Ultra 9 Processor 185H",
+        "GPU": "NVIDIA GeForce RTX 4070",
+        "RAM": "16GB LPDDR5X Dual-Channel",
+        "Storage": "1TB Gen4 NVMe SSD M.2",
+        "Display": "16\" OLED QHD+ (2560 x 1600) 240Hz",
+        "Weight": "1.85 kg"
+      }
+    },
+    {
+      "id": "prod-13",
+      "name": "Bose QuietComfort Ultra Headphones",
+      "description": "Unprecedented spatialized immersive audio combined with premium materials and signature acoustic silence. Offering specialized wind-noise block controls and custom headband tension.",
+      "price": 35900.0,
+      "category": "Audio",
+      "image": "https://images.unsplash.com/photo-1550029402-8280f657d8d1?auto=format&fit=crop&w=600&q=80",
+      "images": [
+        "https://images.unsplash.com/photo-1550029402-8280f657d8d1?auto=format&fit=crop&w=600&q=80",
+        "https://images.unsplash.com/photo-1669550071213-d5afca46ec78?auto=format&fit=crop&w=600&q=80",
+        "https://images.unsplash.com/photo-1610196600828-517131fddddd?auto=format&fit=crop&w=600&q=80",
+        "https://images.unsplash.com/photo-1674658556545-f18d4080ab6c?auto=format&fit=crop&w=600&q=80"
+      ],
+      "stock": 25,
+      "rating": 4.9,
+      "features": [
+        "Bose Immersive Audio 3D rendering engine",
+        "CustomTune auto calibration fit sound",
+        "Ultra/quiet and aware ambient pass-through modes",
+        "Soft premium ear cushions with adjustable steel headband",
+        "Long battery life with up to 24-hours use"
+      ],
+      "specs": {
+        "Driver": "40mm High-Performance Dynamic Driver",
+        "ANC Performance": "CustomTune Multi-Mic Active ANC",
+        "Battery Life": "Up to 24 hours (18 with Immersive mode)",
+        "Bluetooth": "Bluetooth 5.3 aptX Adaptive Support",
+        "Control Interface": "Micro-touch sensors and clickable triggers"
+      }
+    },
+    {
+      "id": "prod-14",
+      "name": "Sony Alpha 7 IV Mirrorless Camera",
+      "description": "The perfect hybrid mirrorless package designed both for master movie creators and fast response still photographers. Incorporates 33MP high resolution sensor and real-time animal/human eye autofocus tracking.",
+      "price": 219990.0,
+      "category": "Cameras",
+      "image": "https://images.unsplash.com/photo-1741194349482-e81a7105f6df?auto=format&fit=crop&w=600&q=80",
+      "images": [
+        "https://images.unsplash.com/photo-1741194349482-e81a7105f6df?auto=format&fit=crop&w=600&q=80",
+        "https://images.unsplash.com/photo-1562522326-806012d51e2d?auto=format&fit=crop&w=600&q=80",
+        "https://images.unsplash.com/photo-1505583281278-81e6f9301504?auto=format&fit=crop&w=600&q=80",
+        "https://images.unsplash.com/photo-1529111424977-59e5afaf5824?auto=format&fit=crop&w=600&q=80"
+      ],
+      "stock": 6,
+      "rating": 4.9,
+      "features": [
+        "33 Megapixel Exmor R Back-Illuminated CMOS",
+        "BIONZ XR image processor for blazing speed",
+        "Real-Time eye tracking for human, animal, and bird",
+        "4K 60p video capture with rich color profiles",
+        "5-axis in-body image optical shake stabilization"
+      ],
+      "specs": {
+        "Sensor": "Full-Frame 35mm Exmor R CMOS Sensor",
+        "Image Processor": "BIONZ XR Processor Engine",
+        "Max Resolution": "33.0 Megapixels Effective",
+        "Video Quality": "4K 60p, 10-bit color, 4:2:2 sampling",
+        "Autofocus": "759 Phase-detection points"
+      }
+    },
+    {
+      "id": "prod-15",
+      "name": "OnePlus 12 5G Smartphone",
+      "description": "Defined by incredible fluid speed, premium Hasselblad optics, and super-fast charging. Packaged with a brilliant high-efficiency AMOLED screen with customized pro-grade gaming optimization.",
+      "price": 64999.0,
+      "category": "Smartphones",
+      "image": "https://images.unsplash.com/photo-1743440283755-73e8caf26530?auto=format&fit=crop&w=600&q=80",
+      "images": [
+        "https://images.unsplash.com/photo-1743440283755-73e8caf26530?auto=format&fit=crop&w=600&q=80",
+        "https://images.unsplash.com/photo-1573820825381-8b7b41e1ddea?auto=format&fit=crop&w=600&q=80",
+        "https://images.unsplash.com/photo-1652352545956-34c26af007da?auto=format&fit=crop&w=600&q=80",
+        "https://images.unsplash.com/photo-1527747471697-174c755627dd?auto=format&fit=crop&w=600&q=80"
+      ],
+      "stock": 15,
+      "rating": 4.7,
+      "features": [
+        "Flagship Snapdragon 8 Gen 3 Platform",
+        "4th Generation Hasselblad Mobile Camera",
+        "Extreme 100W SuperVOOC high-speed flash charger",
+        "Dual Cryo-velocity Vapor Chamber for cooling",
+        "Brilliant ProXDR display with ultra-smooth 120Hz"
+      ],
+      "specs": {
+        "Processor": "Snapdragon 8 Gen 3 Mobile Platform",
+        "Screen": "6.82\" Super Fluid AMOLED 2K with LTPO",
+        "Camera": "Triple: 50MP Main + 64MP Periscope + 48MP Ultra-wide",
+        "RAM": "12GB LPDDR5X",
+        "Storage": "256GB UFS 4.0",
+        "Battery": "5400 mAh dual-cell"
+      }
+    },
+    {
+      "id": "prod-16",
+      "name": "Philips Hue Smart Light Hub Kit",
+      "description": "The golden standard for color ambient room atmospheres. This starter compilation contains three full color ambient bulbs, a wireless wall switcher, and the smart Ethernet control hub.",
+      "price": 11999.0,
+      "category": "Home",
+      "image": "https://images.unsplash.com/photo-1752391702044-b3c75fde78bd?auto=format&fit=crop&w=600&q=80",
+      "images": [
+        "https://images.unsplash.com/photo-1752391702044-b3c75fde78bd?auto=format&fit=crop&w=600&q=80",
+        "https://images.unsplash.com/photo-1752262167753-37a0ec83f614?auto=format&fit=crop&w=600&q=80",
+        "https://images.unsplash.com/photo-1601656269222-fda862e6dc7d?auto=format&fit=crop&w=600&q=80",
+        "https://images.unsplash.com/photo-1614624532983-4ce03382d63d?auto=format&fit=crop&w=600&q=80"
+      ],
+      "stock": 20,
+      "rating": 4.6,
+      "features": [
+        "Contains 3 Hue White and Color Ambiance LED bulbs",
+        "Includes Hue Bridge controller supporting Zigbee control",
+        "Syncs color displays dynamically matching active music or movies",
+        "Voice activated through standard digital assistant setups",
+        "Choose and program gorgeous ambient moods across millions of colors"
+      ],
+      "specs": {
+        "Illumination": "White + Color Ambiance E27 (800 lumens)",
+        "Technology": "Zigbee + Bluetooth Smart Low Energy",
+        "Power Usage": "9 Watts per active color bulb",
+        "Compatibility": "Siri, Alexa, Google Assistant, Matter standard",
+        "Hub Capacity": "Supports up to 50 individual lights"
+      }
+    },
+    {
+      "id": "prod-17",
+      "name": "Samsung Galaxy S24+ 5G",
+      "description": "The perfect balance of power and pocketability. Packed with Galaxy AI smart features, a stunning 6.7-inch QHD+ Dynamic AMOLED 2X display, Snapdragon 8 Gen 3, and a long-lasting battery.",
+      "price": 89999.0,
+      "category": "Smartphones",
+      "image": "https://images.unsplash.com/photo-1587573578335-9672da4d0292?auto=format&fit=crop&w=600&q=80",
+      "images": [
+        "https://images.unsplash.com/photo-1587573578335-9672da4d0292?auto=format&fit=crop&w=600&q=80",
+        "https://images.unsplash.com/photo-1523474253046-8cd2748b5fd2?auto=format&fit=crop&w=600&q=80",
+        "https://images.unsplash.com/photo-1688762473728-3a20023e1fe4?auto=format&fit=crop&w=600&q=80",
+        "https://images.unsplash.com/photo-1619287032765-de47edc49091?auto=format&fit=crop&w=600&q=80"
+      ],
+      "stock": 14,
+      "rating": 4.7,
+      "features": [
+        "6.7-inch QHD+ Dynamic AMOLED 2X Display",
+        "Galaxy AI smart features",
+        "Upgraded triple-lens camera with 50MP main",
+        "Armor Aluminum 2.0 dynamic frame",
+        "Generous 4900 mAh all-day battery life"
+      ],
+      "specs": {
+        "Processor": "Snapdragon 8 Gen 3 for Galaxy",
+        "Screen": "6.7\" QHD+ Dynamic AMOLED 2X (120Hz)",
+        "Camera": "Triple: 50MP + 12MP + 10MP with 30x Zoom",
+        "RAM": "12GB LPDDR5X",
+        "Storage": "256GB UFS 4.0",
+        "Battery": "4900 mAh"
+      }
+    },
+    {
+      "id": "prod-18",
+      "name": "Samsung Galaxy S25 Ultra",
+      "description": "Redefining flagship intelligence. Features a refined, ultra-thin symmetric titanium bezel, the ground-breaking Snapdragon 8 Elite chip, a stunning anti-reflective screen, and upgraded 50MP ultra-wide and telephoto optics.",
+      "price": 139999.0,
+      "category": "Smartphones",
+      "image": "https://images.unsplash.com/photo-1738830234395-a351829a1c7b?auto=format&fit=crop&w=600&q=80",
+      "images": [
+        "https://images.unsplash.com/photo-1738830234395-a351829a1c7b?auto=format&fit=crop&w=600&q=80",
+        "https://images.unsplash.com/photo-1738830251513-a7bfef4b53c6?auto=format&fit=crop&w=600&q=80",
+        "https://images.unsplash.com/photo-1738830241330-ae47f3708ad4?auto=format&fit=crop&w=600&q=80",
+        "https://images.unsplash.com/photo-1738830223726-151adcd58131?auto=format&fit=crop&w=600&q=80"
+      ],
+      "stock": 10,
+      "rating": 4.8,
+      "features": [
+        "Next-generation Snapdragon 8 Elite CPU",
+        "New symmetrical, ultra-slim Titanium chassis",
+        "Breathtaking 200MP + 50MP dual lens system",
+        "6.8-inch Dynamic AMOLED 2X with Gorilla Armor",
+        "Advanced on-device Gemini integration"
+      ],
+      "specs": {
+        "Processor": "Snapdragon 8 Elite (3nm)",
+        "Screen": "6.8\" Dynamic AMOLED 2X (120Hz, 2600 nits)",
+        "Camera": "Quad: 200MP + 50MP + 50MP + 10MP",
+        "RAM": "16GB LPDDR5X",
+        "Storage": "512GB UFS 4.0",
+        "Battery": "5000 mAh with 45W 2.0 Charging"
+      }
+    },
+    {
+      "id": "prod-19",
+      "name": "Samsung Galaxy S26 Ultra",
+      "description": "The ultimate 2026 sensory experience. Introduces a revolutionary 3nm silicon architecture, 3200-nit high brightness display peak, variable optical mechanical aperture telephoto, and fully-integrated satellite messaging.",
+      "price": 149999.0,
+      "category": "Smartphones",
+      "image": "https://suprememobiles.in/cdn/shop/files/1_e4619208-fdbb-4846-a1ee-3daa1e48aee9.webp?v=1772518528",
+      "images": [
+        "https://suprememobiles.in/cdn/shop/files/1_e4619208-fdbb-4846-a1ee-3daa1e48aee9.webp?v=1772518528",
+        "https://m.media-amazon.com/images/I/81xlgnoP6OL.jpg",
+        "https://technave.com/data/files/article/202602251851575159.png",
+        "https://mahajanelectronics.com/cdn/shop/files/3_78a308b6-2f6c-45ed-9092-cceacd8a8694.jpg?v=1772767380&width=1200"
+      ],
+      "stock": 7,
+      "rating": 4.9,
+      "features": [
+        "Ultra-advanced 2nm Snapdragon 8 Gen 5 processor",
+        "Super-high dynamic AMOLED 3X 144Hz panel",
+        "Mechanical variable dual-aperture 200MP camera",
+        "Solid state button keys with subtle haptic rails",
+        "Unprecedented bidirectional standard satellite calls"
+      ],
+      "specs": {
+        "Processor": "Snapdragon 8 Gen 5 (2nm)",
+        "Screen": "6.85\" Dynamic AMOLED 3X (144Hz, 3200 nits)",
+        "Camera": "Quad: 200MP (variable aperture) + 50MP + 50MP + 12MP",
+        "RAM": "16GB LPDDR6",
+        "Storage": "512GB UFS 4.1",
+        "Battery": "5200 mAh Silicon-Carbon core"
+      }
+    },
+    {
+      "id": "prod-21",
+      "name": "Apple iPhone 16",
+      "description": "Unveiling premium style with color-infused glass, a versatile 48MP camera setup, and the fully integrated tactile Camera Control slider. Built from the ground up for Apple Intelligence and top-tier efficiency.",
+      "price": 79900.0,
+      "category": "Smartphones",
+      "image": "https://images.unsplash.com/photo-1726841261353-8321481b7a95?auto=format&fit=crop&w=600&q=80",
+      "images": [
+        "https://images.unsplash.com/photo-1726841261353-8321481b7a95?auto=format&fit=crop&w=600&q=80",
+        "https://images.unsplash.com/photo-1601784551146-2f3b9015bc24?auto=format&fit=crop&w=600&q=80",
+        "https://images.unsplash.com/photo-1592899677977-9c10ca588bbd?auto=format&fit=crop&w=600&q=80",
+        "https://images.unsplash.com/photo-1510557880182-3d4d3cba35a5?auto=format&fit=crop&w=600&q=80"
+      ],
+      "stock": 25,
+      "rating": 4.7,
+      "features": [
+        "Aerospace-grade Aluminum with color-infused glass back",
+        "A18 chip with 5-core GPU and 16-core Neural Engine",
+        "All-new Camera Control tactile slider",
+        "48MP Fusion Camera with 2x Telephoto option",
+        "Customizable Action Button and USB-C port"
+      ],
+      "specs": {
+        "Processor": "Apple A18 (3nm)",
+        "Screen": "6.1\" Super Retina XDR OLED Display",
+        "Camera": "Dual: 48MP Fusion + 120 Ultra-wide",
+        "RAM": "8GB Unified memory",
+        "Storage": "128GB NVMe",
+        "Battery": "3561 mAh"
+      }
+    },
+    {
+      "id": "prod-22",
+      "name": "Apple iPhone 16 Plus",
+      "description": "Combine spectacular screen real estate and legendary battery longevity. Featuring the tactile Camera Control slider, customizable Action Button, and a breathtaking 6.7-inch Super Retina display.",
+      "price": 89900.0,
+      "category": "Smartphones",
+      "image": "https://images.unsplash.com/photo-1695822877321-15ef5412b82e?auto=format&fit=crop&w=600&q=80",
+      "images": [
+        "https://images.unsplash.com/photo-1695822877321-15ef5412b82e?auto=format&fit=crop&w=600&q=80",
+        "https://images.unsplash.com/photo-1702184117235-56002cb13663?auto=format&fit=crop&w=600&q=80",
+        "https://images.unsplash.com/photo-1709528922440-4fc4f05ef110?auto=format&fit=crop&w=600&q=80",
+        "https://images.unsplash.com/photo-1695639541844-10e622641add?auto=format&fit=crop&w=600&q=80"
+      ],
+      "stock": 20,
+      "rating": 4.7,
+      "features": [
+        "Color-infused glass design with spacious layout",
+        "A18 chip with 5-core GPU built for Apple Intelligence",
+        "Camera Control and Action Button mechanical additions",
+        "Large 6.7\" display with Super Retina XDR clarity",
+        "Upgraded all-day battery life"
+      ],
+      "specs": {
+        "Processor": "Apple A18 (3nm)",
+        "Screen": "6.7\" Super Retina XDR OLED Display",
+        "Camera": "Dual: 48MP Fusion + 12MP Ultra-wide",
+        "RAM": "8GB Unified memory",
+        "Storage": "128GB NVMe",
+        "Battery": "4674 mAh"
+      }
+    },
+    {
+      "id": "prod-23",
+      "name": "Apple iPhone 16 Pro",
+      "description": "Designed with a robust yet lightweight Grade 5 Titanium finish. Equipped with the groundbreaking A18 Pro silicon chip, tactile Camera Control, and a magnificent Pro triple-camera system.",
+      "price": 119900.0,
+      "category": "Smartphones",
+      "image": "https://images.unsplash.com/photo-1710023038502-ba80a70a9f53?auto=format&fit=crop&w=600&q=80",
+      "images": [
+        "https://images.unsplash.com/photo-1710023038502-ba80a70a9f53?auto=format&fit=crop&w=600&q=80",
+        "https://images.unsplash.com/photo-1709178295038-acbeec786fcf?auto=format&fit=crop&w=600&q=80",
+        "https://images.unsplash.com/photo-1730036900477-09391e7a5414?auto=format&fit=crop&w=600&q=80",
+        "https://images.unsplash.com/photo-1726587912121-ea21fcc57ff8?auto=format&fit=crop&w=600&q=80"
+      ],
+      "stock": 15,
+      "rating": 4.8,
+      "features": [
+        "Grade 5 Titanium finish with stunning micro-blasted textures",
+        "A18 Pro chip with 6-core GPU and enhanced ray tracing",
+        "Dedicated mechanical tactile Camera Control",
+        "Pro camera system with 48MP Fusion and 48MP Ultra Wide",
+        "5x Telephoto Zoom lens, ProMotion 120Hz display"
+      ],
+      "specs": {
+        "Processor": "Apple A18 Pro (3nm)",
+        "Screen": "6.3\" Super Retina XDR OLED with ProMotion",
+        "Camera": "Triple: 48MP Fusion + 48MP Ultra-wide + 12MP 5x Telephoto",
+        "RAM": "8GB Unified memory",
+        "Storage": "128GB NVMe",
+        "Battery": "3582 mAh"
+      }
+    },
+    {
+      "id": "prod-24",
+      "name": "Apple iPhone 16 Pro Max",
+      "description": "Unlock infinite potential with a spacious 6.9-inch display, aerospace Titanium framing, and the powerhouse performance of the A18 Pro chip. Includes professional 5x optical telephoto zooming and incredible audio structures.",
+      "price": 144900.0,
+      "category": "Smartphones",
+      "image": "https://images.unsplash.com/photo-1727079513748-d03e7b8c8947?auto=format&fit=crop&w=600&q=80",
+      "images": [
+        "https://images.unsplash.com/photo-1727079513748-d03e7b8c8947?auto=format&fit=crop&w=600&q=80",
+        "https://images.unsplash.com/photo-1726587912109-3422e8f54741?auto=format&fit=crop&w=600&q=80",
+        "https://images.unsplash.com/photo-1726732970014-f2df88c87dd3?auto=format&fit=crop&w=600&q=80",
+        "https://images.unsplash.com/photo-1727013884184-b313982327f3?auto=format&fit=crop&w=600&q=80"
+      ],
+      "stock": 10,
+      "rating": 4.9,
+      "features": [
+        "Stunning 6.9-inch display, the largest iPhone screen ever",
+        "A18 Pro chip with advanced desktop-class architecture",
+        "Tactile Camera Control slider & action button",
+        "Pro triple camera setup with 5x optical telephoto lens",
+        "Longest battery life ever on any iPhone model"
+      ],
+      "specs": {
+        "Processor": "Apple A18 Pro (3nm)",
+        "Screen": "6.9\" Super Retina XDR OLED with ProMotion",
+        "Camera": "Triple: 48MP Fusion + 48MP Ultra-wide + 12MP 5x Telephoto with LiDAR",
+        "RAM": "8GB Unified memory",
+        "Storage": "256GB NVMe",
+        "Battery": "4685 mAh"
+      }
+    },
+    {
+      "id": "prod-25",
+      "name": "Apple iPhone 17",
+      "description": "Revolutionizing mobile utility with the next-generation Apple A19 processor. Outfitted with high-speed ProMotion 120Hz adaptivity, enhanced 24MP selfies, and a scratchproof micro-ceramic front casing.",
+      "price": 84900.0,
+      "category": "Smartphones",
+      "image": "https://images.unsplash.com/photo-1738344858158-66f743afcf3d?auto=format&fit=crop&w=600&q=80",
+      "images": [
+        "https://images.unsplash.com/photo-1738344858158-66f743afcf3d?auto=format&fit=crop&w=600&q=80",
+        "https://images.unsplash.com/photo-1727079525588-4638ea8301e0?auto=format&fit=crop&w=600&q=80",
+        "https://images.unsplash.com/photo-1727079547627-836b0e391f21?auto=format&fit=crop&w=600&q=80",
+        "https://images.unsplash.com/photo-1727079516633-04d51a733033?auto=format&fit=crop&w=600&q=80"
+      ],
+      "stock": 15,
+      "rating": 4.7,
+      "features": [
+        "Next-generation ProMotion screen up to 120Hz on standard tier",
+        "Apple A19 chip with extreme on-device Apple Intelligence 2.0",
+        "Brand new 24MP high-resolution front-facing selfie camera",
+        "All-new Scratch-resistant reflective outer micro-ceramic shield",
+        "48MP dual back fusion lenses with macro capabilities"
+      ],
+      "specs": {
+        "Processor": "Apple A19 (2nm TSMC)",
+        "Screen": "6.2\" Super Retina XDR OLED ProMotion (120Hz)",
+        "Camera": "Dual: 48MP Fusion + 48MP Ultra-wide",
+        "RAM": "12GB Unified memory for AI 2.0",
+        "Storage": "128GB NVMe",
+        "Battery": "3850 mAh"
+      }
+    },
+    {
+      "id": "prod-26",
+      "name": "Apple iPhone 17 Slim (Air)",
+      "description": "A marvel of engineering, delivering an incredibly ultra-thin chassis profile measuring a mere 5.1mm. Crafted with aerospace-grade aluminum-titanium metallurgy and pristine performance metrics.",
+      "price": 104900.0,
+      "category": "Smartphones",
+      "image": "https://images.unsplash.com/photo-1726900303530-8b74f627aa4d?auto=format&fit=crop&w=600&q=80",
+      "images": [
+        "https://images.unsplash.com/photo-1726900303530-8b74f627aa4d?auto=format&fit=crop&w=600&q=80",
+        "https://images.unsplash.com/photo-1729331435024-90762a474330?auto=format&fit=crop&w=600&q=80",
+        "https://images.unsplash.com/photo-1726900303396-3231b9ca3b07?auto=format&fit=crop&w=600&q=80",
+        "https://images.unsplash.com/photo-1726900303586-fd05e7de9dbd?auto=format&fit=crop&w=600&q=80"
+      ],
+      "stock": 12,
+      "rating": 4.8,
+      "features": [
+        "Revolutionary ultra-thin chassis at just 5.1mm of profile depth",
+        "Highly light aerospace aluminum-titanium blended alloy frame",
+        "A19 energy-efficient powerhouse optimized for slim thermal layouts",
+        "6.6-inch beautiful OLED centered screen with dynamic island slim-cut",
+        "Single 48MP fusion lens with smart simulated depth fields"
+      ],
+      "specs": {
+        "Processor": "Apple A19 (2nm energy-optimized)",
+        "Screen": "6.6\" Super Retina XDR Slim-OLED (120Hz)",
+        "Camera": "Single: 48MP Smart-Fusion with computational cinematic bokeh",
+        "RAM": "12GB Unified memory",
+        "Storage": "256GB NVMe",
+        "Battery": "3150 mAh Ultra-thin cell"
+      }
+    },
+    {
+      "id": "prod-27",
+      "name": "Apple iPhone 17 Pro",
+      "description": "Unveils an extreme paradigm of processing with the 2nm Apple A19 Pro chip. Coupled with standard 12GB RAM, professional triple 48MP cameras, and an ultra-narrow ceramic framing structure.",
+      "price": 129900.0,
+      "category": "Smartphones",
+      "image": "https://images.unsplash.com/photo-1632518193213-b34d7731376b?auto=format&fit=crop&w=600&q=80",
+      "images": [
+        "https://images.unsplash.com/photo-1632518193213-b34d7731376b?auto=format&fit=crop&w=600&q=80",
+        "https://images.unsplash.com/photo-1709178295004-893b38ec2a4b?auto=format&fit=crop&w=600&q=80",
+        "https://images.unsplash.com/photo-1759588071781-2c3ba9128497?auto=format&fit=crop&w=600&q=80",
+        "https://images.unsplash.com/photo-1763891378295-5d9bd5c48745?auto=format&fit=crop&w=600&q=80"
+      ],
+      "stock": 8,
+      "rating": 4.9,
+      "features": [
+        "All-new Apple A19 Pro chip with unmatched desktop-tier spatial ray tracing",
+        "12GB RAM standard ensuring seamless real-time LLM on-device execution",
+        "Triple 48MP camera sensor arrays (Fusion, Ultra Wide, and 5x Telephoto)",
+        "Dynamic Island 2.5 with reduced overall FaceID pinhole housing space",
+        "ProMotion 120Hz with variable low-latency refresh down to 1Hz"
+      ],
+      "specs": {
+        "Processor": "Apple A19 Pro (2nm TSMC Ultra)",
+        "Screen": "6.3\" Super Retina XDR LTPO OLED display",
+        "Camera": "Triple: 48MP Fusion + 48MP Ultra-wide + 48MP 5x Optical Telephoto",
+        "RAM": "12GB Unified memory",
+        "Storage": "256GB NVMe",
+        "Battery": "3950 mAh"
+      }
+    },
+    {
+      "id": "prod-28",
+      "name": "Apple iPhone 17 Pro Max",
+      "description": "The absolute pinnacle of luxury, power, and mobile photography. Combines a brilliant 6.9-inch borderless micro-curved display, 12GB Unified frame, triple 48MP camera suite with 10x high-fidelity zoom, and highly durable solid-state power systems.",
+      "price": 159900.0,
+      "category": "Smartphones",
+      "image": "https://www.mobileana.com/wp-content/uploads/2025/06/Apple-iPhone-17-Pro-Max-Cosmic-Orange.webp",
+      "images": [
+        "https://www.mobileana.com/wp-content/uploads/2025/06/Apple-iPhone-17-Pro-Max-Cosmic-Orange.webp",
+        "https://media.assettype.com/esquireindia%2F2026-05-07%2F64togkoi%2FIphone-17-Pro-Max.jpg?rect=0%2C0%2C4096%2C2304&w=1024&auto=format%2Ccompress&fit=max",
+        "https://images.unsplash.com/photo-1758348844305-c8351d0d6b45?auto=format&fit=crop&w=600&q=80",
+        "https://images.unsplash.com/photo-1759588073186-1d4ac7e33623?auto=format&fit=crop&w=600&q=80"
+      ],
+      "stock": 5,
+      "rating": 4.9,
+      "features": [
+        "True 48MP Triple camera array with 10x high-fidelity advanced optical zoom",
+        "Apple A19 Pro 2nm extreme processor with built-in Apple Intelligence ultra",
+        "Beautiful 6.9-inch borderless micro-curved display",
+        "Full 12GB Unified architecture ready for high-speed local AI calculations",
+        "Next-generation solid-state batteries with 45W superfast protocol"
+      ],
+      "specs": {
+        "Processor": "Apple A19 Pro (2nm Ultra-performance)",
+        "Screen": "6.9\" Borderless Super Retina XDR OLED (120Hz)",
+        "Camera": "Triple: 48MP Fusion + 48MP Ultra-wide + 48MP 10x Optical Telephoto",
+        "RAM": "12GB Unified memory",
+        "Storage": "512GB NVMe",
+        "Battery": "4950 mAh Solid-State"
+      }
+    }
+  ],
+  "users": [
+    {
+      "id": "admin-1",
+      "name": "Admin Store Manager",
+      "email": "harshairugu@gmail.com",
+      "role": "admin",
+      "createdAt": "2026-06-01T12:00:00Z"
+    },
+    {
+      "id": "user-demo",
+      "name": "Sarah Miller",
+      "email": "customer@demo.com",
+      "role": "customer",
+      "createdAt": "2026-06-02T10:00:00Z"
+    }
+  ],
+  "orders": [
+    {
+      "id": "ord-2026-001",
+      "userId": "user-demo",
+      "items": [
+        {
+          "productId": "prod-5",
+          "name": "Sony WH-1000XM5 ANC Headphones",
+          "price": 29990.0,
+          "quantity": 1
+        },
+        {
+          "productId": "prod-9",
+          "name": "Apple HomePod (2nd Gen) Speaker",
+          "price": 32900.0,
+          "quantity": 2
+        }
+      ],
+      "total": 95790.0,
+      "status": "processing",
+      "paymentStatus": "paid",
+      "shippingInfo": {
+        "fullName": "Sarah Miller",
+        "address": "452 Pine Street, Apt 3B",
+        "city": "Mumbai",
+        "postalCode": "400001",
+        "country": "India"
+      },
+      "trackingNumber": "TRK-FEDEX-948194",
+      "carrier": "FedEx",
+      "estimatedDelivery": "2026-06-06T18:00:00Z",
+      "createdAt": "2026-06-02T15:30:00Z"
+    }
+  ],
+  "notifications": [
+    {
+      "id": "notif-1",
+      "userId": "user-demo",
+      "title": "Welcome to ElectroShop!",
+      "message": "Thank you for confirming your account. Enjoy premium electronics with lightning fast delivery.",
+      "type": "info",
+      "read": true,
+      "createdAt": "2026-06-02T10:05:00Z"
+    },
+    {
+      "id": "notif-2",
+      "userId": "user-demo",
+      "title": "Your Order is Processing",
+      "message": "Your payment was verified and order #ord-2026-001 has entered processing status.",
+      "type": "success",
+      "read": true,
+      "createdAt": "2026-06-02T15:31:00Z"
+    }
+  ],
+  "sessions": {
+    "token-user-demo-active": "user-demo",
+    "token-admin-demo-active": "admin-1",
+    "token-user-demo-416244": "user-demo",
+    "token-user-demo-235128": "user-demo"
+  }
+}
